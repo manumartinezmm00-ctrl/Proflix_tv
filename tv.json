@@ -1,7 +1,7 @@
 {
   "canales": [
      {
-      "nombre": "Caracol HD",
+      "nombre": "Caracol HD ",
       "tvg_id": "Caracol.HD.co",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es",
       "stream": "http://181.78.8.199:8000/play/a0b0/index.m3u8"
