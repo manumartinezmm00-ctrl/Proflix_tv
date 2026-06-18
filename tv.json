@@ -1,13 +1,13 @@
 {
   "canales": [
     {
-      "nombre": "Caracol HD",
+      "nombre": "Caracol",
       "tvg_id": "Caracol.HD.co",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es",
-      "stream": "http://181.78.8.199:8000/play/a0b0/index.m3u8"
+      "stream": "http://190.60.49.242:4000/play/a0ho/index.m3u8"
     },
     {
-      "nombre": "RCN HD",
+      "nombre": "RCN",
       "tvg_id": "RCN.HD.co",
       "logo": "https://images.seeklogo.com/logo-png/2/1/canal-rcn-logo-png_seeklogo-25571.png",
       "stream": "http://181.78.8.199:8000/play/a09l/index.m3u8"
