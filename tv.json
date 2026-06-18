@@ -1,22 +1,28 @@
 {
   "canales": [
     {
-      "nombre": "Caracol",
-      "tvg_id": "Caracol.HD.co",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es",
-      "stream": "http://190.60.49.242:4000/play/a0ho/index.m3u8"
+      "nombre": "TNT 1",
+      "tvg_id": "",
+      "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
+      "stream": "https://cdn5.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=qXi5tYClSYYE1zkNUE-oVQ&expires=1779774014"
     },
     {
-      "nombre": "RCN",
-      "tvg_id": "RCN.HD.co",
-      "logo": "https://images.seeklogo.com/logo-png/2/1/canal-rcn-logo-png_seeklogo-25571.png",
-      "stream": "http://181.78.8.199:8000/play/a09l/index.m3u8"
+      "nombre": "TNT 2",
+      "tvg_id": "",
+      "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
+      "stream": "https://cdn10.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=1sa0nxGyBO-xrfOWWQ3QmQ&expires=1779774014"
     },
     {
-      "nombre": "Telecaribe",
-      "tvg_id": "Telecaribe.co",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b6/TelecaribeVariant1996.png/revision/latest/scale-to-width-down/250?cb=20240430222238&path-prefix=es",
-      "stream": "http://181.78.8.199:8000/play/a0df/index.m3u8"
+      "nombre": "TNT 3",
+      "tvg_id": "",
+      "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
+      "stream": "https://cdn3.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=T2QmR7M1o5kaBeeOQx8svA&expires=1779774014"
+    },
+    {
+      "nombre": "TNT 4",
+      "tvg_id": "",
+      "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
+      "stream": "https://cdn1.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=RH2ebcTNKvO_jfXrMupzkw&expires=1779774015"
     }
   ]
 }
