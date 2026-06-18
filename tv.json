@@ -11,6 +11,12 @@
       "tvg_id": "RCN.HD.co",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_RCN_2023-present.svg/revision/latest/scale-to-width-down/67?cb=20230702001117",
       "stream": "http://181.78.8.199:8000/play/a09l/index.m3u8"
+    },
+    {
+      "nombre": "Telecaribe",
+      "tvg_id": "Telecaribe.co",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b6/TelecaribeVariant1996.png/revision/latest/scale-to-width-down/250?cb=20240430222238&path-prefix=es",
+      "stream": "http://181.78.8.199:8000/play/a0df/index.m3u8"
     }
   ]
 }
