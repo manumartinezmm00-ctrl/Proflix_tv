@@ -23,6 +23,24 @@
       "tvg_id": "Caracol.DITU.co",
       "logo": "https://ditutv.lat/wp-content/uploads/2025/01/Logo-ID-Ditu.png",
       "stream": "http://live.btv.mx:2424/stream/279386/smAVz_uhytj5REM-4pYNZbkrcB2"
+    },
+    {
+      "nombre": "CARACOL HD 2tdt",
+      "tvg_id": "",
+      "logo": "",
+      "stream": "http://190.60.49.242:4000/play/a0pe/index.m3u8"
+    },
+    {
+      "nombre": "CARACOL TV HDtdt",
+      "tvg_id": "",
+      "logo": "",
+      "stream": "http://190.60.49.242:4000/play/a0pt/index.m3u8"
+    },
+    {
+      "nombre": "Caracolsd",
+      "tvg_id": "",
+      "logo": "",
+      "stream": "http://190.60.49.242:4000/play/a0ho/index.m3u8"
     }
   ]
 }
